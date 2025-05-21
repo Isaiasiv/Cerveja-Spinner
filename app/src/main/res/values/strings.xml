@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CervejaApp</string>
+    <string-array name="tipos_cerveja">
+        <item>Pilsen</item>
+        <item>Cerveja Artesanal</item>
+        <item>Chopp</item>
+    </string-array>
+</resources>
